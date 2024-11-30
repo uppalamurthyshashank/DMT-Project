@@ -1,0 +1,59 @@
+SI NO,Medicine,Disease
+1,Lisinopril,Hypertension
+2,Amlodipine,Hypertension
+3,Losartan,Hypertension
+4,Metoprolol,Hypertension
+5,Ramipril,Hypertension
+6,Diltiazem,Hypertension
+7,Valsartan,Hypertension
+8,Hydrochlorothiazide,Hypertension
+9,Clonidine,Hypertension
+10,Nifedipine,Hypertension
+11,Aspirin,Heart Disease
+12,Clopidogrel,Heart Disease
+13,Prasugrel,Heart Disease
+14,Ticagrelor,Heart Disease
+15,Dipyridamole,Heart Disease
+16,Atorvastatin,Cholesterol
+17,Simvastatin,Cholesterol
+18,Rosuvastatin,Cholesterol
+19,Pravastatin,Cholesterol
+20,Lovastatin,Cholesterol
+21,Warfarin,Anticoagulation
+22,Rivaroxaban,Anticoagulation
+23,Apixaban,Anticoagulation
+24,Dabigatran,Anticoagulation
+25,Edoxaban,Anticoagulation
+26,Carvedilol,Heart Failure
+27,Bisoprolol,Heart Failure
+28,Propranolol,Heart Failure
+29,Atenolol,Heart Failure
+30,Sotalol,Heart Failure
+31,Nitroglycerin,Angina
+32,Isosorbide dinitrate,Angina
+33,Isosorbide mononitrate,Angina
+34,Digoxin,Heart Failure
+35,Sacubitril/Valsartan,Heart Failure
+36,Furosemide,Heart Failure
+37,Spironolactone,Heart Failure
+38,Eplerenone,Heart Failure
+39,Ivabradine,Heart Failure
+40,Milrinone,Heart Failure
+41,Dopamine,Heart Failure
+42,Dobutamine,Heart Failure
+43,Ezetimibe,Cholesterol
+44,Alirocumab,Cholesterol
+45,Evolocumab,Cholesterol
+46,Fenofibrate,Cholesterol
+47,Niacin,Cholesterol
+48,Omega-3 fatty acids,Heart Health
+49,Bempedoic acid,Cholesterol
+50,Cilostazol,Peripheral Artery Disease
+51,Ranolazine,Angina
+52,Dronedarone,Heart Rhythm Disorders
+53,Coenzyme Q10,Supplementary
+54,Garlic extract,Supplementary
+55,Red yeast rice,Supplementary
+56,Metformin,Diabetes
+57,GLP-1 receptor agonists,Diabetes
+58,SGLT2 inhibitors,Diabetes
